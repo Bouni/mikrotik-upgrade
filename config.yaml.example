@@ -1,0 +1,6 @@
+- name: AP Schulungsraum
+  hostname: ap-schulungsraum.lan
+  keyfile: "/home/user/.ssh/id_rsa"
+- name: AP Werkstatt
+  hostname: 192.168.178.45
+  keyfile: "/home/user/.ssh/id_rsa"
