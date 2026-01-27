@@ -16,4 +16,17 @@ An example can be found in the repo.
 
 ## Runing the upgrades
 
-simply call mikrotik-upgrade
+simply call `mikrotik-upgrade`
+
+The output lokks like this
+
+```sh
+mikrotik-upgrade  
+================================================================================
+==                                   Router                                   ==
+================================================================================
+New version is available
+Download updates
+Upgrade routerboard
+Reboot System
+```
