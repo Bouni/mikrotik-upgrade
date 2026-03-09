@@ -5,6 +5,7 @@ from pathlib import Path
 import paramiko
 import yaml
 
+logging.basicConfig(level=logging.INFO, format='[%(levelname)-8s] %(message)s')
 
 class MikrotikConnectionError(Exception):
     pass
